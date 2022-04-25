@@ -136,7 +136,7 @@
                 <p class="text-lg">The future is now. Africa's youth are the new generation of digital talents. We are here to make sure they have the skills to empower and uplift their communities.Our vision To influence 70% of youth employment in the continent through human capital development and grassroot economic development.Our MissionTo develop home based digital talents in Africa, and attract enough jobs to retain them Join this movement. </p>
             </div>
             <div class="justify-self-center w-11/12 lg:my-16">
-                <img src="./../assets/images/img-4.jpg" class=" w-11/12 mx-auto" />
+                <img src="./../assets/images/img4.jpg" class=" w-11/12 mx-auto" />
             </div>
         </section>
         <section class="xl:px-44 text-white" style="background:#1f212d">
