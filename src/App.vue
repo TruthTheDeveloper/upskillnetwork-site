@@ -34,7 +34,7 @@ export default {
 @desktop-lg: ~"only screen and (min-width:1200px)";
 @desktop-sm:~"only screen and (min-width:1025px)";
 /* Extra large screens, Tv viewport */
-@screens: ~"only screen and (min-width:1201px)";
+// @screens: ~"only screen and (min-width:1201px)";
 
 body {
   font-family: 'Fira Sans', sans-serif;
