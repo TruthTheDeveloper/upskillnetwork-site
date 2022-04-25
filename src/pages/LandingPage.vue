@@ -142,7 +142,7 @@
         <section class="xl:px-44 text-white" style="background:#1f212d">
             <h1 class="text-center  text-4xl my-20 font-bold text-slate-8">Course Video  Presentation</h1>
             <div class="justify-self-center">
-                <img src="./../assets/images/presentation.jpg" class=" w-10/12 lg:w-9/12 xl:w-8/12 mx-auto" />
+                <img src="./../assets/images/present.jpg" class=" w-10/12 lg:w-9/12 xl:w-8/12 mx-auto" />
             </div>
         </section>
         <section class="text-center  py-10" style="background:#1f212d">
